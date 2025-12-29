@@ -1,37 +1,145 @@
-<h1 align="center">Hi 👋, I'm Milton Biswas</h1>
-<h3 align="center">A passionate Web Developer. Currently pursuing Bachelor of Pharmacy (B. Pharm) from Madhav Universty, Pindwara. I am self-taught Web Developer, expertise in WordPress, HTML5, CSS3, JavaScript and Python & MySql. My other hobby is Nature and Wild Life Photography. I like eating Dahi Puri, rather than Pani Puri. And Tea is Love. Expertise in Linux.</h3>
+# 👋 Hi, I’m Milton Biswas
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miltonbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="miltonbiswas" /> </p>
+### 🏥 Registered Healthcare Professional | 💻 Full Stack Engineer | 🧠 Systems Thinker
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miltonbiswas" alt="miltonbiswas" /></a> </p>
+![Healthcare](https://img.shields.io/badge/Healthcare-Professional-16A34A?style=for-the-badge)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Engineer-2563EB?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Vercel](https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge&logo=vercel)
+![India](https://img.shields.io/badge/Location-India-orange?style=for-the-badge)
 
-<p align="left"> <a href="https://twitter.com/miltonbiswasx" target="blank"><img src="https://img.shields.io/twitter/follow/miltonbiswasx?logo=twitter&style=for-the-badge" alt="miltonbiswasx" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Javascript, Python**
+## 🧠 Who I Am
 
-- 👨‍💻 All of my projects are available at [https://github.com/miltonbiswas](https://github.com/miltonbiswas)
+I’m **Milton Biswas**, a **registered Pharmacist** and **owner of a 24×7 Medical & General Store**, who also works as a **Full Stack Software Engineer**.
 
-- 💬 Ask me about **HTML, CSS**
+I operate at the intersection of:
 
-- 📫 How to reach me **miltonbiswasx@gmail.com**
+- **Healthcare compliance**
+- **Real-world business operations**
+- **Scalable software systems**
 
-- ⚡ Fun fact **I love eating Dahi Puri, rather than Pani Puri. And Tea is Love**
+This dual role defines how I think, design, and build.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/miltonbiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="miltonbiswas" height="30" width="40" /></a>
-<a href="https://twitter.com/miltonbiswasx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miltonbiswasx" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xmiltonbiswasx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xmiltonbiswasx" height="30" width="40" /></a>
-<a href="https://fb.com/miltonbiswasofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miltonbiswasofficial" height="30" width="40" /></a>
-<a href="https://instagram.com/miltonbiswasx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miltonbiswasx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sourcerush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sourcerush" height="30" width="40" /></a>
-</p>
+> In healthcare, a small mistake can cost a life.  
+> I bring the same zero-tolerance mindset to software engineering.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miltonbiswas&show_icons=true&locale=en&layout=compact" alt="miltonbiswas" /></p>
+## 🏥 Healthcare Background
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miltonbiswas&show_icons=true&locale=en" alt="miltonbiswas" /></p>
+- 🎓 **Bachelor of Pharmacy (B.Pharm)**
+- 🪪 **Registered Pharmacist & Drug License Holder**
+- 🏪 Owner of **Shri Ram Medical & General Store** (24×7 operation)
+- 📍 Rajasthan, India
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miltonbiswas&" alt="miltonbiswas" /></p>
+My daily work involves:
+- Inventory control
+- Compliance & audits
+- Prescription handling
+- Financial & operational accuracy
+
+---
+
+## 💻 Engineering Focus
+
+I specialize in **building production-grade systems**, not demos.
+
+### What I Build
+- ERP systems (Retail / Wholesale / Healthcare)
+- Internal dashboards & admin panels
+- Inventory & billing systems
+- Compliance-aware platforms
+- SEO-optimized web products
+- Performance-first frontend systems
+
+### How I Build
+- Clean architecture
+- Long-term maintainability
+- Real-world constraints in mind
+- Minimal visual noise
+- Maximum clarity
+
+---
+
+## 🧱 Tech Stack
+
+### Frontend
+- React
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+### Backend
+- Django
+- Node.js
+- REST APIs
+- Authentication & RBAC
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- SQLite
+
+### DevOps / Tools
+- Git & GitHub
+- Vercel
+- Docker (basic)
+- Power BI
+- WordPress (custom builds)
+
+---
+
+## 📂 Featured Work
+
+Some of the systems I’ve built or am building:
+
+- 🏥 **Medical ERP System**  
+  Inventory, billing, expiry tracking, compliance
+
+- 🧾 **Invoice & Billing Tools**  
+  Offline-first, PDF generation
+
+- 🧳 **Operations Dashboards**  
+  Admin panels for travel & service businesses
+
+- 🧠 **Internal Business Systems**  
+  Designed for non-tech teams
+
+---
+
+## 🔐 Ethics & Compliance
+
+- I do **not** provide medical advice via code or content
+- Healthcare credentials are displayed **only for verification**
+- Systems are designed with **privacy and responsibility**
+
+---
+
+## 🌍 Online Presence
+
+- 🏥 Pharmacy Website: https://srmgs.vercel.app  
+- 💼 Portfolio: (this GitHub + deployed site)
+- 📧 Email: miltonbiswasdev@gmail.com
+
+---
+
+## 🚀 What I’m Working On
+
+- Healthcare-focused ERP systems
+- Performance-first Next.js platforms
+- Compliance-aware digital products
+- Scaling real businesses using software
+
+---
+
+## 📌 Final Note
+
+I don’t chase trends.  
+I build systems that **work**, **last**, and **respect real-world consequences**.
+
+If you’re looking for someone who understands **both responsibility and engineering**, you’re in the right place.
